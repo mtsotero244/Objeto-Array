@@ -4,3 +4,4 @@ const pessoa = {
   idade: 30, // Propriedade: idade (chave), com valor 30
   profissao: "Engenheiro", // Propriedade: profissao (chave), com valor "Engenheiro"
 };
+console.log(pessoa);
